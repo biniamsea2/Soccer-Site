@@ -12,7 +12,7 @@ namespace SoccerApp
         public string Message { get; set; }
         public void OnGet()
         {
-            Message = "View Highlights of the most recent soccer matches!";
+            Message = "Watch Highlights from the most recent soccer matches!";
         }
     }
 }
