@@ -20,7 +20,7 @@ namespace SoccerApp.Pages
 
         public void OnGet()
         {
-            Message = "This application was created";
+            Message = "*Only Premier matches in February shown above";
         }
     }
 }
