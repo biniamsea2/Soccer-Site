@@ -13,14 +13,14 @@ Bootstrap
 
 ###### This application includes the following:  
 
-#### 1) Startup File  
+#### 1) Index File  
 - Explicit routing of MVC  
 - MVC dependency in ConfigureServices  
 - DBContext registered in ConfigureServices  
 - Use of static files accepted  
-#### 2) Controller  
+#### 2) Matches File  
 - Home Controller  
-#### 3) Data  
+#### 3) Highlights File  
 
 
 
