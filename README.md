@@ -5,23 +5,21 @@
 ----
 
 ## Application Summary
-This application was built using ASP.NET Core with razor pages. I wanted to sharpen my skills with razor pages and skills of using outside data to build a web application. I wanted to have fun with this project so I combined both my hobbies (sports and coding) into one and this is what came out of that. 
+This application was built using ASP.NET Core with razor pages. I wanted to sharpen my skills with razor pages and my skills of using outside data to build a web application. I wanted to have fun with this project so I combined both my hobbies (sports and coding) into one and this is what came out of that. 
 
 ## Application Technologies
-ASP.NET Core
-Bootstrap
+ASP.NET Core  
+Bootstrap  
 
 ###### This application includes the following:  
 
 #### 1) Index File  
-- Explicit routing of MVC  
-- MVC dependency in ConfigureServices  
-- DBContext registered in ConfigureServices  
-- Use of static files accepted  
+- Image carousel displaying various teams and players.   
+- Nav bar which includes links to "Matches" and "Highlights" tab.    
 #### 2) Matches File  
-- Home Controller  
+- Includes google calendar of all premier matches being played in February.    
 #### 3) Highlights File  
-
+- Uses public api to display highlights from the most recent matches, from all over the world.     
 
 
 ---
