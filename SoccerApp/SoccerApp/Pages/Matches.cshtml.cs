@@ -8,12 +8,12 @@ using Microsoft.Extensions.Logging;
 
 namespace SoccerApp.Pages
 {
-    public class AboutModel : PageModel
+    public class MatchesModel : PageModel
     {
-        private readonly ILogger<AboutModel> _logger;
+        private readonly ILogger<MatchesModel> _logger;
         public string Message { get; set; }
 
-        public AboutModel(ILogger<AboutModel> logger)
+        public MatchesModel(ILogger<MatchesModel> logger)
         {
             _logger = logger;
         }
