@@ -59,9 +59,9 @@ Then select and open ```SoccerSite.sln```
 ![Image 1](https://github.com/biniamsea2/Soccer-Site/blob/master/Screenshot%20(103).png)
 
 ### Match Details
-![Image 1]()
+![Image 1](https://github.com/biniamsea2/Soccer-Site/blob/master/Screenshot%20(104).png)
 ### Highlights
-![Image 1]()
+![Image 1](https://github.com/biniamsea2/Soccer-Site/blob/master/Screenshot%20(105).png)
 
 
 ---
