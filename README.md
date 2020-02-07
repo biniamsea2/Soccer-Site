@@ -5,7 +5,7 @@
 ----
 
 ## Application Summary
-This application was built using ASP.NET Core with razor pages. I wanted to sharpen my skills with razor pages and skills of using outside data to build a web application  
+This application was built using ASP.NET Core with razor pages. I wanted to sharpen my skills with razor pages and skills of using outside data to build a web application. I wanted to have fun with this project so I combined both my hobbies (sports and coding) into one and this is what came out of that. 
 
 ## Application Technologies
 ASP.NET Core
