@@ -45,7 +45,11 @@ Then select and open ```SoccerSite.sln```
 ### Visuals
 
 ### Home
-![Image 1]()
+![Image 1](https://github.com/biniamsea2/Soccer-Site/blob/master/Screenshot%20(100).png)
+
+### Home
+![Image 1](https://github.com/biniamsea2/Soccer-Site/blob/master/Screenshot%20(101).png)
+
 ### Matches
 ![Image 1]()
 ### Highlights
