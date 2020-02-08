@@ -19,7 +19,7 @@ Bootstrap
 #### 2) Matches File  
 - Includes google calendar of all premier matches being played in February.    
 #### 3) Highlights File  
-- Uses public api to display highlights from the most recent matches, from all over the world.     
+- Uses a public api which displays highlights from the most recent matches, from all over the world. Scores are also provided for each game.     
 
 
 ---
