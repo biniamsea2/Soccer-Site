@@ -21,7 +21,6 @@ Bootstrap
 #### 3) Highlights File  
 - Uses a public api which displays highlights from the most recent matches, from all over the world. Scores are also provided for each game.     
 
-
 ---
 
 ### Getting Started
